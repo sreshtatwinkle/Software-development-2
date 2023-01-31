@@ -1,0 +1,2 @@
+This is the sample text file to modify and push the project to git 
+this is second line.git s
